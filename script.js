@@ -14,13 +14,13 @@ document.addEventListener("DOMContentLoaded", function() {
 
     function initLitter(){
         litterItems = [
-            { id: "item1", type: "1-PET", src: "1-bottle.png", alt: "1" },
-            { id: "item2", type: "2-HDPE", src: "2-milk_bottle.png", alt: "2" },
-            { id: "item3", type: "3-PVC", src: "3-gum_boots.png", alt: "3" },
-            { id: "item4", type: "4-LDPE", src: "4-bubble_wrap.jpg", alt: "4" },
-            { id: "item5", type: "5-PP", src: "5-bottle_cap.jpg", alt: "5" },
-            { id: "item6", type: "6-PS", src: "6-polystyrene_container.jpg", alt: "6" },
-            { id: "item7", type: "7-OTHER", src: "7-cd.png", alt: "7" },
+            { id: "item1", type: "1-PET", src: "images/1-bottle.png", alt: "1" },
+            { id: "item2", type: "2-HDPE", src: "images/2-milk_bottle.png", alt: "2" },
+            { id: "item3", type: "3-PVC", src: "images/3-gum_boots.png", alt: "3" },
+            { id: "item4", type: "4-LDPE", src: "images/4-bubble_wrap.jpg", alt: "4" },
+            { id: "item5", type: "5-PP", src: "images/5-bottle_cap.jpg", alt: "5" },
+            { id: "item6", type: "6-PS", src: "images/6-polystyrene_container.jpg", alt: "6" },
+            { id: "item7", type: "7-OTHER", src: "images/7-cd.png", alt: "7" },
         ];
     }
 
